@@ -1,0 +1,14 @@
+img {
+    width: 100%;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+.li a {
+    border: 2px, solid;
+}
